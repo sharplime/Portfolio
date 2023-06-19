@@ -1,0 +1,21 @@
+﻿Cluster,Items,Current,Minimum,Median,Current 2,Saving - Model 1,Saving  - Model 2
+Worcester / Gloucester,Total,9456,0,0,0,0,0
+Worcester / Gloucester,Trucks,0,4450,4450,0,0,0
+Worcester / Gloucester,Courier,0,258,258,0,0,0
+Worcester / Gloucester,Savings,0,4748.374017,4748.07735,9456,4748.374017,4748.07735
+Birmingham,Total,37955,0,0,0,0,0
+Birmingham,Trucks,0,5400,9850,0,0,0
+Birmingham,Courier,0,15415,5801,0,0,0
+Birmingham,Savings,0,17139.67382,22304.03392,37955,17139.67382,22304.03392
+Nottingham / Leicester,Total,30325,0,0,0,0,0
+Nottingham / Leicester,Trucks,0,5400,8900,0,0,0
+Nottingham / Leicester,Courier,0,6226,3651,0,0,0
+Nottingham / Leicester,Savings,0,18697.39993,17774.49939,30325,18697.39993,17774.49939
+Coventry / Oxford,Total,19892,0,0,0,0,0
+Coventry / Oxford,Trucks,0,4450,5400,0,0,0
+Coventry / Oxford,Courier,0,7417,1795,0,0,0
+Coventry / Oxford,Savings,0,8025.13789,12696.91755,19892,8025.13789,12696.91755
+Milton Keynes,Total,15854,0,0,0,0,0
+Milton Keynes,Trucks,0,4450,5400,0,0,0
+Milton Keynes,Courier,0,3465,239,0,0,0
+Milton Keynes,Savings,0,7938.9157,10215.20411,15854,7938.9157,10215.20411
