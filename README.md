@@ -1,2 +1,1 @@
-# Employer-Project-Kite
-The Analytics Avengers 
+# Employer-Project Work plus a few Extras
